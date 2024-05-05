@@ -13,7 +13,6 @@ reports/
 .scannerwork/
 scripts/SonarQubeCredentials.sh
 src/main/resources/benchmark.properties
-target/
 testfiles/
 tools/Contrast/contrast.jar
 tools/Contrast/contrast.yaml
